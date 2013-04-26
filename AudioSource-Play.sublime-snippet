@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+Play(${1:UInt64 delay = 0})
+]]></content>
+	<tabTrigger>Play</tabTrigger>
+	<scope>source.js</scope>
+	<description>Audio  delay Hz = 1sec</description>
+</snippet>

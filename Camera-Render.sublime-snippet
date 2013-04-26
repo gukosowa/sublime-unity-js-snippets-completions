@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+Render()
+]]></content>
+	<tabTrigger>Render</tabTrigger>
+	<scope>source.js</scope>
+	<description>void</description>
+</snippet>

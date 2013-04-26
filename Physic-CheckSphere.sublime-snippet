@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+CheckSphere(${1:Vector3 position}, ${2:float radius}, ${3:int layermask = kDefaultRaycastLayers})
+]]></content>
+	<tabTrigger>CheckSphere</tabTrigger>
+	<scope>source.js</scope>
+	<description>position, radius, layermask</description>
+</snippet>

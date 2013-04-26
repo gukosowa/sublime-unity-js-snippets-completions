@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+SetColor(${1:string propertyName}, ${2:Color color})
+]]></content>
+	<tabTrigger>SetColor</tabTrigger>
+	<scope>source.js</scope>
+	<description>propertyName</description>
+</snippet>

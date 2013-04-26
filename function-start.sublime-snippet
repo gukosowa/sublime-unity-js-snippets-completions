@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+function Start () {
+	${1:// content}
+}
+]]></content>
+	<tabTrigger>callfunction</tabTrigger>
+	<scope>source.js</scope>
+	<description>Start</description>
+</snippet>

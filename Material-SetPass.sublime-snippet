@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+SetPass(${1:int pass})
+]]></content>
+	<tabTrigger>SetPass</tabTrigger>
+	<scope>source.js</scope>
+	<description>pass</description>
+</snippet>

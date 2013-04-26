@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+function OnBecameVisible () {
+	${1:// content}
+}
+]]></content>
+	<tabTrigger>OnBecameVisible</tabTrigger>
+	<scope>source.js</scope>
+	<description>Function</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+ScreenToViewportPoint(${1:Vector3 position})
+]]></content>
+	<tabTrigger>ScreenToViewportPoint</tabTrigger>
+	<scope>source.js</scope>
+	<description>position</description>
+</snippet>

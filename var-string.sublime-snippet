@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+: String = "${1:Hello}";
+]]></content>
+	<tabTrigger>:</tabTrigger>
+	<scope>source.js</scope>
+	<description>String</description>
+</snippet>

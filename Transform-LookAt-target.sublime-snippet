@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+LookAt(${1:Transform target}, ${2:Vector3 worldUp = Vector3.up})
+]]></content>
+	<tabTrigger>LookAt</tabTrigger>
+	<scope>source.js</scope>
+	<description>target</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+Physics.IgnoreLayerCollision
+]]></content>
+	<tabTrigger>Physics.</tabTrigger>
+	<scope>source.js</scope>
+	<description>IgnoreLayerCollision</description>
+</snippet>

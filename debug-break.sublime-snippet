@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+Debug.Break();
+]]></content>
+	<tabTrigger>Debug.Break</tabTrigger>
+	<scope>source.js</scope>
+	<description>Debug.Break</description>
+</snippet>

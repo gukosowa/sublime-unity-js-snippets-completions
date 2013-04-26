@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+Destroy(${1:Object obj}, ${2:float time = 0.0f})
+]]></content>
+	<tabTrigger>Destroy</tabTrigger>
+	<scope>source.js</scope>
+	<description>obj, time</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+CapsuleCast(${1:Vector3 point1}, ${2:Vector3 point2}, ${3:float radius}, ${4:Vector3 direction}, out ${5:RaycastHit hitInfo}, ${6:float distance = Mathf.Infinity}, ${7:int layerMask = kDefaultRaycastLayers})
+]]></content>
+	<tabTrigger>CapsuleCast</tabTrigger>
+	<scope>source.js</scope>
+	<description>point1, point2, radius, direction, hitInfo, distance, layerMask</description>
+</snippet>

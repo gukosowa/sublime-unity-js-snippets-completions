@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+SetColors
+]]></content>
+	<tabTrigger>LineRenderer</tabTrigger>
+	<scope>source.js</scope>
+	<description>SetColors</description>
+</snippet>

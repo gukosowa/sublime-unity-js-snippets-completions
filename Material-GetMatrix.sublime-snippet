@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+GetMatrix(${1:string propertyName})
+]]></content>
+	<tabTrigger>GetMatrix</tabTrigger>
+	<scope>source.js</scope>
+	<description>propertyName</description>
+</snippet>

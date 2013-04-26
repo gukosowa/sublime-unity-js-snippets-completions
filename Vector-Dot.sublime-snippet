@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+Dot(${1:Vector3 lhs}, ${2:Vector3 rhs})
+]]></content>
+	<tabTrigger>Dot</tabTrigger>
+	<scope>source.js</scope>
+	<description>lhs, rhs</description>
+</snippet>

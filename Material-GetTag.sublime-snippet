@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+GetTag(${1:string tag}, ${2:bool searchFallbacks}, ${3:string defaultValue = ""})
+]]></content>
+	<tabTrigger>GetTag</tabTrigger>
+	<scope>source.js</scope>
+	<description>tag, searchFallbacks, defaultValue</description>
+</snippet>

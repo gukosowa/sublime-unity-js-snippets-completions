@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+AddComponent("${1:string className}")
+]]></content>
+	<tabTrigger>AddComponent</tabTrigger>
+	<scope>source.js</scope>
+	<description>className</description>
+</snippet>

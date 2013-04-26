@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+TransformPoint(${1:float x}, ${2:float y}, ${3:float z});
+]]></content>
+	<tabTrigger>TransformPoint</tabTrigger>
+	<scope>source.js</scope>
+	<description>x, y, z</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+QualitySettings.DecreaseLevel
+]]></content>
+	<tabTrigger>QualitySettings.</tabTrigger>
+	<scope>source.js</scope>
+	<description>DecreaseLevel</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+WorldToScreenPoint(${1:Vector3 position})
+]]></content>
+	<tabTrigger>WorldToScreenPoint</tabTrigger>
+	<scope>source.js</scope>
+	<description>position</description>
+</snippet>

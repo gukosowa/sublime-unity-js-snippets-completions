@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+ClosestPointOnBounds(${1:Vector3 position})
+]]></content>
+	<tabTrigger>ClosestPointOnBounds</tabTrigger>
+	<scope>source.js</scope>
+	<description>position</description>
+</snippet>

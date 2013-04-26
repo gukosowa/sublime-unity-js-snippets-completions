@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+SetBuffer(${1:string propertyName}, ${2:ComputeBuffer buffer})
+]]></content>
+	<tabTrigger>SetBuffer</tabTrigger>
+	<scope>source.js</scope>
+	<description>propertyName, buffer</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+TransformDirection(${1:Vector3 direction})
+]]></content>
+	<tabTrigger>TransformDirection</tabTrigger>
+	<scope>source.js</scope>
+	<description>direction</description>
+</snippet>

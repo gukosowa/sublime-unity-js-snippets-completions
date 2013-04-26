@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+OnCollisionExit(collision : ${1:collision}){
+	${2:// content}
+}
+]]></content>
+	<tabTrigger>OnCollisionExit</tabTrigger>
+	<scope>source.js</scope>
+	<description>collision</description>
+</snippet>

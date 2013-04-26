@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+Translate(${1:Vector3 translation}, ${2:Space relativeTo = Space.Self})
+]]></content>
+	<tabTrigger>Translate</tabTrigger>
+	<scope>source.js</scope>
+	<description>translation, relativeTo</description>
+</snippet>

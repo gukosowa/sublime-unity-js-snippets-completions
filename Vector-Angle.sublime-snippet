@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+Angle(${1:Vector3 from}, ${2:Vector3 to})
+]]></content>
+	<tabTrigger>Angle</tabTrigger>
+	<scope>source.js</scope>
+	<description>from, to</description>
+</snippet>

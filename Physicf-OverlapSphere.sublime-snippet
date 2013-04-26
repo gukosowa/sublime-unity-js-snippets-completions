@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+Physics.OverlapSphere
+]]></content>
+	<tabTrigger>Physics.</tabTrigger>
+	<scope>source.js</scope>
+	<description>OverlapSphere</description>
+</snippet>

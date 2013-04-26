@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+Rotate(${1:Vector3 axis}, ${2:float angle}, ${3:Space relativeTo = Space.Self})
+]]></content>
+	<tabTrigger>Rotate</tabTrigger>
+	<scope>source.js</scope>
+	<description>axis, angle</description>
+</snippet>

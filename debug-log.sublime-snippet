@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+Debug.Log("${1:Hello}");
+]]></content>
+	<tabTrigger>Debug.Log</tabTrigger>
+	<scope>source.js</scope>
+	<description>Debug.Log</description>
+</snippet>

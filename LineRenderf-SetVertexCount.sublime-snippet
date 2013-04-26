@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+SetVertexCount
+]]></content>
+	<tabTrigger>LineRenderer</tabTrigger>
+	<scope>source.js</scope>
+	<description>SetVertexCount</description>
+</snippet>

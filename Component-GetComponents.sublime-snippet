@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+GetComponents(${1:Type type})
+]]></content>
+	<tabTrigger>GetComponents</tabTrigger>
+	<scope>source.js</scope>
+	<description>type</description>
+</snippet>

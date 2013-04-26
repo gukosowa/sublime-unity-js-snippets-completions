@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+Physics.Linecast
+]]></content>
+	<tabTrigger>Physics.</tabTrigger>
+	<scope>source.js</scope>
+	<description>Linecast</description>
+</snippet>

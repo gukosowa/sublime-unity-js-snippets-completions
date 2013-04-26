@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+PlayClipAtPoint(${1:AudioClip clip}, ${2:Vector3 position}, ${3:float volume = 1.0f})
+]]></content>
+	<tabTrigger>PlayClipAtPoint</tabTrigger>
+	<scope>source.js</scope>
+	<description>Audio clip, position, volume</description>
+</snippet>

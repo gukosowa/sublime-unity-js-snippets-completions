@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+SetPosition
+]]></content>
+	<tabTrigger>LineRenderer</tabTrigger>
+	<scope>source.js</scope>
+	<description>SetPosition</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+Clear(${1:bool withChildren = true})
+]]></content>
+	<tabTrigger>Clear</tabTrigger>
+	<scope>source.js</scope>
+	<description>ParticleSystem</description>
+</snippet>

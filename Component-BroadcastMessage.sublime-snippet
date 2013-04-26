@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+BroadcastMessage(${1:string methodName}, ${2:object parameter = null}, ${3:SendMessageOptions options = SendMessageOptions.RequireReceiver})
+]]></content>
+	<tabTrigger>BroadcastMessage</tabTrigger>
+	<scope>source.js</scope>
+	<description>methodName, value, options</description>
+</snippet>

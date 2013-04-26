@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+Color(${1:byte r}, ${2:byte g}, ${3:byte b}, ${4:byte a})
+]]></content>
+	<tabTrigger>Color</tabTrigger>
+	<scope>source.js</scope>
+	<description>Color(r, g, b, a)</description>
+</snippet>

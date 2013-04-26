@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+Physics.CheckSphere
+]]></content>
+	<tabTrigger>Physics.</tabTrigger>
+	<scope>source.js</scope>
+	<description>CheckSphere</description>
+</snippet>

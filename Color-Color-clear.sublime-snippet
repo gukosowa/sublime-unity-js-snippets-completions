@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+Color.clear
+]]></content>
+	<tabTrigger>Color.</tabTrigger>
+	<scope>source.js</scope>
+	<description>Transparent</description>
+</snippet>

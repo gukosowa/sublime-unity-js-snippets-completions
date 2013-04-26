@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+FindObjectsOfType(typeof(${1:Type type}) as ${2:type}[])
+]]></content>
+	<tabTrigger>FindObjectsOfType</tabTrigger>
+	<scope>source.js</scope>
+	<description>type</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+Emit(${1:ParticleSystem.Particle})
+]]></content>
+	<tabTrigger>Emit</tabTrigger>
+	<scope>source.js</scope>
+	<description>ParticleSystem</description>
+</snippet>

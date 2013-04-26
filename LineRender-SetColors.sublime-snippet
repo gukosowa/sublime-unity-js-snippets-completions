@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+SetColors(${1:Color start}, ${2:Color end})
+]]></content>
+	<tabTrigger>SetColors</tabTrigger>
+	<scope>source.js</scope>
+	<description>start, end</description>
+</snippet>

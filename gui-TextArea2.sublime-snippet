@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+GUI.TextArea( ${1: Rect position} , ${2: string or image}, ${3: int maxLength (optional)}
+]]></content>
+	<tabTrigger>GUI.</tabTrigger>
+	<scope>source.js</scope>
+	<description>TextArea</description>
+</snippet>

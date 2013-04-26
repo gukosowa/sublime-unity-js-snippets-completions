@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+SetPosition(${1:int index}, ${2:Vector3 position})
+]]></content>
+	<tabTrigger>SetPosition</tabTrigger>
+	<scope>source.js</scope>
+	<description>index, position</description>
+</snippet>

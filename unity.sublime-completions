@@ -1,0 +1,253 @@
+{
+       // By default, auto complete will commit the current completion on enter.
+   // This setting can be used to make it complete on tab instead.
+   // Completing on tab is generally a superior option, as it removes
+   // ambiguity between committing the completion and inserting a newline.
+   "auto_complete_commit_on_tab": false,
+
+   // Controls if auto complete is shown when snippet fields are active.
+   // Only relevant if auto_complete_commit_on_tab is true.
+   "auto_complete_with_fields": false,
+        "scope": "source.js",
+
+        "completions":
+        [
+        // if
+                { "trigger": "if", "contents": "" },
+                { "trigger": "else if", "contents": "" },
+                { "trigger": "else", "contents": "" },
+        // var
+                { "trigger": "private var", "contents": "" },
+        // Debug
+                { "trigger": "print", "contents": "" },
+                { "trigger": "Debug", "contents": "Debug." },
+                { "trigger": "Log", "contents": "" },
+                { "trigger": "DrawLine", "contents": "" },
+                { "trigger": "DrawRay", "contents": "" },
+                { "trigger": "Break", "contents": "" },
+        // Function
+                { "trigger": "function", "contents": "" },
+                { "trigger": "Start", "contents": "" },
+                { "trigger": "Update", "contents": "" },
+                { "trigger": "OnMouseDown", "contents": "" },
+                // Function Collider
+                { "trigger": "OnCollisionEnter", "contents": "" },
+                { "trigger": "OnCollisionExit", "contents": "" },
+                { "trigger": "OnCollisionStay", "contents": "" },
+                { "trigger": "OnTriggerEnter", "contents": "" },
+                { "trigger": "OnTriggerStay", "contents": "" },
+                { "trigger": "OnTriggerExit", "contents": "" },
+                // Renderer
+                { "trigger": "OnBecameInvisible", "contents": "" },
+                { "trigger": "OnBecameVisible", "contents": "" },
+
+        // Transform
+                { "trigger": "transform", "contents": "transform." },
+                { "trigger": "Translate", "contents": "" },
+                { "trigger": "LookAt", "contents": "" },
+                { "trigger": "IsChildOf", "contents": "" },
+                { "trigger": "Rotate", "contents": "" },
+                { "trigger": "RotateAround", "contents": "" },
+
+                { "trigger": "DetachChildren", "contents": "" },
+
+                { "trigger": "TransformDirection", "contents": "" },
+                { "trigger": "TransformPoint", "contents": "" },
+
+                { "trigger": "InverseTransformPoint", "contents": "" },
+
+                { "trigger": "InverseTransformDirection", "contents": "" },
+
+         // GUI
+                { "trigger": "GUI", "contents": "GUI." },
+                { "trigger": "RepeatButton", "contents": "" },
+                { "trigger": "TextField", "contents": "" },
+                { "trigger": "Button", "contents": "" },
+                { "trigger": "Label", "contents": "" },
+                { "trigger": "PasswordField", "contents": "" },
+                { "trigger": "TextArea", "contents": "" },
+
+        // GameObject
+                { "trigger": "GameObject", "contents": "" },
+                { "trigger": "Find", "contents": "" },
+                { "trigger": "AddComponent", "contents": "" },
+                { "trigger": "CreatePrimitive", "contents": "" },
+                { "trigger": "FindGameObjectsWithTag", "contents": "" },
+                { "trigger": "FindWithTag", "contents": "" },
+                { "trigger": "SetActive", "contents": "" },
+
+        // Vector
+                { "trigger": "Vector2", "contents": "" },
+                { "trigger": "Vector3", "contents": "" },
+                { "trigger": "Angle", "contents": "" },
+                { "trigger": "eulerAngles", "contents": "" },
+                { "trigger": "ClampMagnitude", "contents": "" },
+                { "trigger": "Cross", "contents": "" },
+                { "trigger": "Distance", "contents": "" },
+                { "trigger": "Dot", "contents": "" },
+                { "trigger": "Normalize", "contents": "" },
+                { "trigger": "OrthoNormalize", "contents": "" },
+                { "trigger": "Project", "contents": "" },
+                { "trigger": "Reflect", "contents": "" },
+                { "trigger": "Scale", "contents": "" },
+                { "trigger": "Set", "contents": "" },
+                { "trigger": "Slerp", "contents": "" },
+                { "trigger": "Vector4", "contents": "" },
+
+        // AudioSource
+                { "trigger": "AudioSource", "contents": "" },
+                { "trigger": "Play", "contents": "" },
+                { "trigger": "Pause", "contents": "" },
+                { "trigger": "Stop", "contents": "" },
+                { "trigger": "PlayOneShot", "contents": "" },
+                { "trigger": "PlayClipAtPoint", "contents": "" },
+                
+        // Bounds
+                { "trigger": "Bounds", "contents": "" },
+
+        // Camera
+                { "trigger": "Camera", "contents": "" },
+                { "trigger": "Render", "contents": "" },
+                { "trigger": "RenderWithShader", "contents": "" },
+                { "trigger": "ResetAspect", "contents": "" },
+                { "trigger": "ResetProjectionMatrix", "contents": "" },
+                { "trigger": "ResetWorldToCameraMatrix", "contents": "" },
+                { "trigger": "ResetReplacementShader", "contents": "" },
+                { "trigger": "ScreenPointToRay", "contents": "" },
+                { "trigger": "ScreenToViewportPoint", "contents": "" },
+                { "trigger": "ScreenToWorldPoint", "contents": "" },
+                { "trigger": "SetReplacementShader", "contents": "" },
+                { "trigger": "ViewportPointToRay", "contents": "" },
+                { "trigger": "ViewportToScreenPoint", "contents": "" },
+                { "trigger": "ViewportToWorldPoint", "contents": "" },
+                { "trigger": "WorldToScreenPoint", "contents": "" },
+                { "trigger": "WorldToViewportPoint", "contents": "" },
+                { "trigger": "CopyFrom", "contents": "" },
+
+        // Collider
+                { "trigger": "Collider", "contents": "" },
+                { "trigger": "ClosestPointOnBounds", "contents": "" },
+                
+        // Color
+                { "trigger": "Color", "contents": "" },
+                { "trigger": "Color32", "contents": "" },
+                { "trigger": "Color.", "contents": "" },
+                
+        // Component
+                { "trigger": "GetComponent", "contents": "" },
+                { "trigger": "GetComponentInChildren", "contents": "" },
+                { "trigger": "GetComponents", "contents": "" },
+                { "trigger": "GetComponentsInChildren", "contents": "" },
+                { "trigger": "SendMessage", "contents": "" },
+                { "trigger": "SendMessageUpwards", "contents": "" },
+                { "trigger": "BroadcastMessage", "contents": "" },
+                { "trigger": "CompareTag\ttag", "contents": "" },
+
+        // LineRender
+                { "trigger": "LineRenderer\tFunctions,Tab", "contents": "LineRenderer" },
+                { "trigger": "SetWidth", "contents": "" },
+                { "trigger": "SetVertexCount", "contents": "" },
+                { "trigger": "SetColors", "contents": "" },
+                { "trigger": "SetPosition", "contents": "" },
+
+        // Material
+                { "trigger": "renderer.material.", "contents": "" },
+                { "trigger": "GetTexture", "contents": "" },
+                { "trigger": "GetTextureOffset", "contents": "" },
+                { "trigger": "GetTextureScale", "contents": "" },
+                { "trigger": "GetVector", "contents": "" },
+                { "trigger": "SetBuffer", "contents": "" },
+                { "trigger": "HasProperty", "contents": "" },
+                { "trigger": "SetColor, color", "contents": "" },
+                { "trigger": "SetFloat", "contents": "" },
+                { "trigger": "SetMatrix", "contents": "" },
+                { "trigger": "SetPass", "contents": "" },
+                { "trigger": "SetTexture", "contents": "" },
+                { "trigger": "SetTextureOffset", "contents": "" },
+                { "trigger": "SetTextureScale", "contents": "" },
+                { "trigger": "SetVector", "contents": "" },
+                { "trigger": "CopyPropertiesFromMaterial", "contents": "" },
+                { "trigger": "GetColor", "contents": "" },
+                { "trigger": "GetFloat", "contents": "" },
+                { "trigger": "GetMatrix", "contents": "" },
+                { "trigger": "GetTag", "contents": "" },
+                
+        // Mathf
+                { "trigger": "Mathf.\tFunctions,Tab", "contents": "Mathf." },
+                { "trigger": "DeltaAngle", "contents": "" },
+                { "trigger": "Clamp", "contents": "" },
+                { "trigger": "InverseLerp", "contents": "" },
+                { "trigger": "Lerp", "contents": "" },
+                { "trigger": "LerpAngle", "contents": "" },
+                { "trigger": "Max", "contents": "" },
+                { "trigger": "Min", "contents": "" },
+                { "trigger": "MoveTowards", "contents": "" },
+                { "trigger": "MoveTowardsAngle", "contents": "" },
+                { "trigger": "PingPong", "contents": "" },
+                { "trigger": "Pow", "contents": "" },
+                { "trigger": "Repeat", "contents": "" },
+                { "trigger": "SmoothDamp", "contents": "" },
+                { "trigger": "SmoothDampAngle", "contents": "" },
+                { "trigger": "SmoothStep", "contents": "" },
+                { "trigger": "Approximately", "contents": "" },
+
+        // Object
+                { "trigger": "Destroy", "contents":"" },
+                { "trigger": "DontDestroyOnLoad", "contents": "" },
+                { "trigger": "FindObjectOfType", "contents": "" },
+                { "trigger": "FindObjectsOfType", "contents": "" },
+                { "trigger": "GetInstanceID", "contents": "" },
+                { "trigger": "Instantiate", "contents": "" },
+                
+        // Ray
+                { "trigger": "GetPoint", "contents": "" },
+                { "trigger": "Ray", "contents": "" },
+
+        // Range
+                { "trigger": "Range", "contents": "" },
+
+        // ParticleSystem
+                { "trigger": "SetParticles", "contents": "" },
+                { "trigger": "Simulate", "contents": "" },
+                { "trigger": "Play", "contents": "" },
+                { "trigger": "Pause", "contents": "" },
+                { "trigger": "Clear", "contents": "" },
+                { "trigger": "Stop", "contents": "" },
+                { "trigger": "Emit", "contents": "" },
+                { "trigger": "GetParticles", "contents": "" },
+                { "trigger": "IsAlive", "contents": "" },
+
+        //  Physics
+                { "trigger": "Physics\tFunctions,Tab", "contents": "Physics." },
+                { "trigger": "GetIgnoreLayerCollision", "contents": "" },
+                { "trigger": "CheckCapsule", "contents": "" },
+                { "trigger": "CapsuleCastAll", "contents": "" },
+                { "trigger": "CheckSphere", "contents" : "" },
+                { "trigger": "IgnoreCollision", "contents": "" },
+                { "trigger": "IgnoreLayerCollision", "contents": "" },
+                { "trigger": "Linecast", "contents": "" },
+                { "trigger": "OverlapSphere", "contents": "" },
+                { "trigger": "Raycast", "contents": "" },
+                { "trigger": "RaycastAll", "contents": "" },
+                { "trigger": "SphereCast", "contents": "" },
+                { "trigger": "SphereCastAll", "contents": "" },
+                { "trigger": "CapsuleCast", "contents": "" },
+                
+        // QualitySettings
+                { "trigger": "QualitySettings\tFunctions,Tab", "contents": "QualitySettings." },
+                { "trigger": "GetQualityLevel", "contents": "" },
+                { "trigger": "DecreaseLevel", "contents": "" },
+                { "trigger": "IncreaseLevel", "contents": "" },
+                { "trigger": "SetQualityLevel", "contents": "" },
+
+        // Quaternion
+                { "trigger": "Quaternion", "contents": "" },
+                { "trigger": "Angle", "contents": "" },
+                { "trigger": "identity", "contents": "" },
+                { "trigger": "", "contents": "" },
+                { "trigger": "", "contents": "" },
+                { "trigger": "", "contents": "" },
+                { "trigger": "", "contents": "" },
+                { "trigger": "", "contents": "" }
+        ]
+}

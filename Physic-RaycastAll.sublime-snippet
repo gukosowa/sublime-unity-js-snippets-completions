@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+RaycastAll(${1:Ray ray}, ${2:float distance = Mathf.Infinity}, ${3:int layerMask = kDefaultRaycastLayers})
+]]></content>
+	<tabTrigger>RaycastAll</tabTrigger>
+	<scope>source.js</scope>
+	<description>ray, distance, layerMask</description>
+</snippet>

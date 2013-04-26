@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+Physics.SphereCast
+]]></content>
+	<tabTrigger>Physics.</tabTrigger>
+	<scope>source.js</scope>
+	<description>SphereCast</description>
+</snippet>

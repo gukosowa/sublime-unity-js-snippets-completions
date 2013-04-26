@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+Translate( ${1: x:float, y:float, z:float} );
+]]></content>
+	<tabTrigger>Translate</tabTrigger>
+	<scope>source.js</scope>
+	<description>x y z</description>
+</snippet>

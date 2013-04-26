@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+SetWidth
+]]></content>
+	<tabTrigger>LineRenderer</tabTrigger>
+	<scope>source.js</scope>
+	<description>SetWidth</description>
+</snippet>

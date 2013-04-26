@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+Mathf.MoveTowardsAngle(${1:float current}, ${2:float target}, ${3:float maxDelta})
+]]></content>
+	<tabTrigger>Mathf.</tabTrigger>
+	<scope>source.js</scope>
+	<description>MoveTowardsAngle</description>
+</snippet>

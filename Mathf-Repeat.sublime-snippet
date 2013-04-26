@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+Mathf.Repeat(${1:float t}, ${2:float length})
+]]></content>
+	<tabTrigger>Mathf.Repeat</tabTrigger>
+	<scope>source.js</scope>
+	<description>t, length</description>
+</snippet>

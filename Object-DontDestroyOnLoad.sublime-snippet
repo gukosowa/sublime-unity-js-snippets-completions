@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+DontDestroyOnLoad(${1:Object target})
+]]></content>
+	<tabTrigger>DontDestroyOnLoad</tabTrigger>
+	<scope>source.js</scope>
+	<description>target</description>
+</snippet>

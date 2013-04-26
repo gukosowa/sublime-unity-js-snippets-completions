@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+Distance(${1:Vector3 a}, ${2:Vector3 b})
+]]></content>
+	<tabTrigger>Distance</tabTrigger>
+	<scope>source.js</scope>
+	<description>a, b</description>
+</snippet>

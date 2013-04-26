@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+Pause(${1:bool withChildren = true})
+]]></content>
+	<tabTrigger>Pause</tabTrigger>
+	<scope>source.js</scope>
+	<description>ParticleSystem</description>
+</snippet>

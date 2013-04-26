@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+Mathf.PingPong(${1:float t}, ${2:float length})
+]]></content>
+	<tabTrigger>Mathf.</tabTrigger>
+	<scope>source.js</scope>
+	<description>PingPong</description>
+</snippet>

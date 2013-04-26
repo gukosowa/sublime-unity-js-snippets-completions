@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+Debug.DrawRay(${1:start Vector3},${2:dir Vector3} ,${3:Color = Color.white} ,${4:duration float = 0.0f} ,${5:depthTest boolean = true})
+]]></content>
+	<tabTrigger>Debug.DrawRay</tabTrigger>
+	<scope>source.js</scope>
+	<description>Debug.DrawRay</description>
+</snippet>

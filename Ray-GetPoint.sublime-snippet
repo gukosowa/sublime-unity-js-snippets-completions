@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+GetPoint(${1:float distance})
+]]></content>
+	<tabTrigger>GetPoint</tabTrigger>
+	<scope>source.js</scope>
+	<description>distance</description>
+</snippet>

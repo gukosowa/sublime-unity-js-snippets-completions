@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+TransformPoint(${1:Vector3 position})
+]]></content>
+	<tabTrigger>TransformPoint</tabTrigger>
+	<scope>source.js</scope>
+	<description>Position</description>
+</snippet>

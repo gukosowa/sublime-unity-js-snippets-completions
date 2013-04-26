@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+ClampMagnitude(${1:Vector3 vector}, ${2:float maxLength})
+]]></content>
+	<tabTrigger>ClampMagnitude</tabTrigger>
+	<scope>source.js</scope>
+	<description>vector, maxLength</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+SetTextureOffset(${1:string propertyName}, ${2:Vector2 offset})
+]]></content>
+	<tabTrigger>SetTextureOffset</tabTrigger>
+	<scope>source.js</scope>
+	<description>propertyName, offset</description>
+</snippet>

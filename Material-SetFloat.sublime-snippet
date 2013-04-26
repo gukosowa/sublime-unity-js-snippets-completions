@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+SetFloat(${1:string propertyName}, ${2:float value})
+]]></content>
+	<tabTrigger>SetFloat</tabTrigger>
+	<scope>source.js</scope>
+	<description>propertyName, value</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+RotateAround(${1:Vector3 point}, ${2:float axis}, ${3:float angle})
+]]></content>
+	<tabTrigger>RotateAround</tabTrigger>
+	<scope>source.js</scope>
+	<description>point, axis, angle</description>
+</snippet>

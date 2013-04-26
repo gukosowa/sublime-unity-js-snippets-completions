@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+Instantiate(${1:Object original}, ${2:Vector3 position}, ${3:Quaternion rotation})
+]]></content>
+	<tabTrigger>Instantiate</tabTrigger>
+	<scope>source.js</scope>
+	<description>original, pos, rot</description>
+</snippet>

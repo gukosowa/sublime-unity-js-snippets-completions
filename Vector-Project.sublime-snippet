@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+Project(${1:Vector3 vector}, ${2:Vector3 onNormal})
+]]></content>
+	<tabTrigger>Project</tabTrigger>
+	<scope>source.js</scope>
+	<description>vector, onNormal</description>
+</snippet>

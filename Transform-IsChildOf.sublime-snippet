@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+IsChildOf(${1:Transform parent})
+]]></content>
+	<tabTrigger>IsChildOf</tabTrigger>
+	<scope>source.js</scope>
+	<description>parent</description>
+</snippet>

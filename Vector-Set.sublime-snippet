@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+Set(${1:float new_x}, ${2:float new_y}, ${3:float new_z})
+]]></content>
+	<tabTrigger>Set</tabTrigger>
+	<scope>source.js</scope>
+	<description>new_x, new_y, new_z</description>
+</snippet>

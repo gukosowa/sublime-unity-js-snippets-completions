@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+new GameObject (${1:""});
+]]></content>
+	<tabTrigger>new GameObject()</tabTrigger>
+	<scope>source.js</scope>
+	<description>String</description>
+</snippet>

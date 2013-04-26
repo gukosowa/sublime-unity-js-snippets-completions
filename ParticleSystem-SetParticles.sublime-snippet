@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+SetParticles(${1:ParticleSystem.Particle[] particles}, ${2:int size})
+]]></content>
+	<tabTrigger>SetParticles</tabTrigger>
+	<scope>source.js</scope>
+	<description>particles, size</description>
+</snippet>

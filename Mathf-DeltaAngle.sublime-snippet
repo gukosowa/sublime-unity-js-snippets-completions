@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+Mathf.DeltaAngle(${1:float current}, ${2:float target})
+]]></content>
+	<tabTrigger>Mathf.DeltaAngle</tabTrigger>
+	<scope>source.js</scope>
+	<description>current, target</description>
+</snippet>

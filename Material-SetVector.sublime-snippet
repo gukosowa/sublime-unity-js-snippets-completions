@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+SetVector(${1:string propertyName}, ${2:Vector4 vector})
+]]></content>
+	<tabTrigger>SetVector</tabTrigger>
+	<scope>source.js</scope>
+	<description>propertyName, vector</description>
+</snippet>

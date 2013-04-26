@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+DetachChildren()
+]]></content>
+	<tabTrigger>DetachChildren</tabTrigger>
+	<scope>source.js</scope>
+	<description>Unparents all children.</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+SetWidth(${1:float start}, ${2:float end})
+]]></content>
+	<tabTrigger>SetWidth</tabTrigger>
+	<scope>source.js</scope>
+	<description>start, end</description>
+</snippet>

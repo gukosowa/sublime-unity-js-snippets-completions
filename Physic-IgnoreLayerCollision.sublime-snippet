@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+IgnoreLayerCollision(${1:int layer1}, ${2:int layer2}, ${3:bool ignore = true})
+]]></content>
+	<tabTrigger>IgnoreLayerCollision</tabTrigger>
+	<scope>source.js</scope>
+	<description>layer1, layer2, ignore</description>
+</snippet>

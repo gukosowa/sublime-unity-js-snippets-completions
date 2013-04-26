@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+Find("${1:Object name}")
+]]></content>
+	<tabTrigger>Find</tabTrigger>
+	<scope>source.js</scope>
+	<description>Find</description>
+</snippet>

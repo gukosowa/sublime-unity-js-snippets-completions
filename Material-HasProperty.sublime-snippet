@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+HasProperty(${1:string propertyName})
+]]></content>
+	<tabTrigger>HasProperty</tabTrigger>
+	<scope>source.js</scope>
+	<description>propertyName</description>
+</snippet>

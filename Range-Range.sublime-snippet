@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+Range(${1:int fromValue}, ${2:int valueCount})
+]]></content>
+	<tabTrigger>Range</tabTrigger>
+	<scope>source.js</scope>
+	<description>from, count</description>
+</snippet>

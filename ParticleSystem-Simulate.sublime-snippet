@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+Simulate(${1:float t}, ${2:bool withChildren = true}, ${3:bool restart = true})
+]]></content>
+	<tabTrigger>Simulate</tabTrigger>
+	<scope>source.js</scope>
+	<description>t, withChildren, restart</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+ResetWorldToCameraMatrix()
+]]></content>
+	<tabTrigger>ResetWorldToCameraMatrix</tabTrigger>
+	<scope>source.js</scope>
+	<description>void</description>
+</snippet>

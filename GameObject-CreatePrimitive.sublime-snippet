@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+CreatePrimitive(${1:PrimitiveType type})
+]]></content>
+	<tabTrigger>CreatePrimitive</tabTrigger>
+	<scope>source.js</scope>
+	<description>type</description>
+</snippet>

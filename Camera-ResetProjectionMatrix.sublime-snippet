@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+ResetProjectionMatrix()
+]]></content>
+	<tabTrigger>ResetProjectionMatrix</tabTrigger>
+	<scope>source.js</scope>
+	<description>void</description>
+</snippet>

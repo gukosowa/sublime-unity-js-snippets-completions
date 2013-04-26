@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+Linecast(${1:Vector3 start}, ${2:Vector3 end}, out ${3:RaycastHit hitInfo}, ${4:int layerMask = kDefaultRaycastLayers})
+]]></content>
+	<tabTrigger>Linecast</tabTrigger>
+	<scope>source.js</scope>
+	<description>start, end, hitInfo, layerMask</description>
+</snippet>

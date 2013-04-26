@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+PlayOneShot(${1:AudioClip clip}, ${2:float volumeScale = 1.0f})
+]]></content>
+	<tabTrigger>PlayOneShot</tabTrigger>
+	<scope>source.js</scope>
+	<description>Audio clip, volumeScale</description>
+</snippet>

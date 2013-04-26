@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+Physics.CapsuleCast
+]]></content>
+	<tabTrigger>Physics.</tabTrigger>
+	<scope>source.js</scope>
+	<description>CapsuleCast</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+CompareTag(${1:string tag})
+]]></content>
+	<tabTrigger>CompareTag</tabTrigger>
+	<scope>source.js</scope>
+	<description>tag</description>
+</snippet>

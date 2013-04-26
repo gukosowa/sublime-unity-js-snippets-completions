@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+SphereCast(${1:Ray ray}, ${2:float radius}, out ${3:RaycastHit hitInfo}, ${4:float distance = Mathf.Infinity}, ${5:int layerMask = kDefaultRaycastLayers})
+]]></content>
+	<tabTrigger>SphereCast</tabTrigger>
+	<scope>source.js</scope>
+	<description>ray, radius, hitInfo, distance, layerMask</description>
+</snippet>

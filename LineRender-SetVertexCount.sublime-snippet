@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+SetVertexCount(${1:int count})
+]]></content>
+	<tabTrigger>SetVertexCount</tabTrigger>
+	<scope>source.js</scope>
+	<description>count</description>
+</snippet>

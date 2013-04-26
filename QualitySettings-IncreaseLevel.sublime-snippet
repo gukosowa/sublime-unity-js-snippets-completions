@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+IncreaseLevel(${1:bool applyExpensiveChanges = false})
+]]></content>
+	<tabTrigger>IncreaseLevel</tabTrigger>
+	<scope>source.js</scope>
+	<description>applyExpensiveChanges</description>
+</snippet>

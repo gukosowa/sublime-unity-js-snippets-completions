@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+SetActive("${1:true}")
+]]></content>
+	<tabTrigger>SetActive</tabTrigger>
+	<scope>source.js</scope>
+	<description>bool value</description>
+</snippet>

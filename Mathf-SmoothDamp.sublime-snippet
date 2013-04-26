@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+Mathf.SmoothDamp(${1:float current}, ${2:float target}, ref ${3:float currentVelocity}, ${4:float smoothTime}, ${5:float maxSpeed = Mathf.Infinity}, ${6:float deltaTime = Time.deltaTime})
+]]></content>
+	<tabTrigger>Mathf.SmoothDamp</tabTrigger>
+	<scope>source.js</scope>
+	<description>current, target, currentVelocity, smoothTime, maxSpeed, deltaTime</description>
+</snippet>

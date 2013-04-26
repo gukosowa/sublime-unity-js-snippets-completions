@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+IsAlive(${1:bool withChildren = true})
+]]></content>
+	<tabTrigger>IsAlive</tabTrigger>
+	<scope>source.js</scope>
+	<description>ParticleSystem</description>
+</snippet>

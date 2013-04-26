@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+CheckCapsule(${1:Vector3 start}, ${2:Vector3 end}, ${3:float radius}, ${4:int layermask = kDefaultRaycastLayers})
+]]></content>
+	<tabTrigger>CheckCapsule</tabTrigger>
+	<scope>source.js</scope>
+	<description>start, end, radius, layermask</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+SetTexture(${1:string propertyName}, ${2:Texture texture})
+]]></content>
+	<tabTrigger>SetTexture</tabTrigger>
+	<scope>source.js</scope>
+	<description>propertyName, texture</description>
+</snippet>

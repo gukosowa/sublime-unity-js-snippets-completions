@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+GetQualityLevel()
+]]></content>
+	<tabTrigger>GetQualityLevel</tabTrigger>
+	<scope>source.js</scope>
+	<description>void</description>
+</snippet>

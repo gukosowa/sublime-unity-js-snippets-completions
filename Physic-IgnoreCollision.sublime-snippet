@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+IgnoreCollision(${1:Collider collider1}, ${2:Collider collider2}, ${3:bool ignore = true})
+]]></content>
+	<tabTrigger>IgnoreCollision</tabTrigger>
+	<scope>source.js</scope>
+	<description>collider1, collider2, ignore</description>
+</snippet>

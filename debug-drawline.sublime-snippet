@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+Debug.DrawLine(${1: start Vector3},${2:end Vector3},${3:color Color = Color.white},${4:duration float = 0.0f},${5:depthTest boolean = true})
+]]></content>
+	<tabTrigger>Debug.DrawLine</tabTrigger>
+	<scope>source.js</scope>
+	<description>Debug.DrawLine</description>
+</snippet>

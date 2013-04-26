@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+OverlapSphere(${1:Vector3 position}, ${2:float radius}, ${3:int layerMask = kAllLayers})
+]]></content>
+	<tabTrigger>OverlapSphere</tabTrigger>
+	<scope>source.js</scope>
+	<description>position, radius, layerMask</description>
+</snippet>

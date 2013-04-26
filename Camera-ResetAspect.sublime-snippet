@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+ResetAspect()
+]]></content>
+	<tabTrigger>ResetAspect</tabTrigger>
+	<scope>source.js</scope>
+	<description>void</description>
+</snippet>

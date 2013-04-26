@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+Mathf.Max(${1:float a}, ${2:float b})
+]]></content>
+	<tabTrigger>Mathf.Max</tabTrigger>
+	<scope>source.js</scope>
+	<description>a, b</description>
+</snippet>

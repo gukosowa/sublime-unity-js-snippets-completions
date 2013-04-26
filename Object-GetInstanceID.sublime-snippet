@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+GetInstanceID()
+]]></content>
+	<tabTrigger>GetInstanceID</tabTrigger>
+	<scope>source.js</scope>
+	<description>void</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+SetReplacementShader(${1:Shader shader}, ${2:string replacementTag})
+]]></content>
+	<tabTrigger>SetReplacementShader</tabTrigger>
+	<scope>source.js</scope>
+	<description>shader</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+GetComponentInChildren(${1:Type type})
+]]></content>
+	<tabTrigger>GetComponentInChildren</tabTrigger>
+	<scope>source.js</scope>
+	<description>type</description>
+</snippet>

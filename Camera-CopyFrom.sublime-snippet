@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+CopyFrom(${1:Camera other})
+]]></content>
+	<tabTrigger>CopyFrom</tabTrigger>
+	<scope>source.js</scope>
+	<description>other</description>
+</snippet>

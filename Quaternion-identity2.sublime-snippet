@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+Quaternion.identity
+]]></content>
+	<tabTrigger>Quaternion</tabTrigger>
+	<scope>source.js</scope>
+	<description>identity</description>
+</snippet>
